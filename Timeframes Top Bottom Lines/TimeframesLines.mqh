@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                                TimeframesLines.mqh |
+//|                                              TimeframesLines.mqh |
 //|                                Copyright 2019, Leonardo Sposina. |
 //|           https://www.mql5.com/en/users/leonardo_splinter/seller |
 //+------------------------------------------------------------------+
